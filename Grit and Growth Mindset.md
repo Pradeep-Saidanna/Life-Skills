@@ -9,7 +9,7 @@ For me, the video shows that success does not come only from talent. It comes fr
 The video taught me that intelligence and skills are not fixed. We can improve ourselves through practice, effort, learning from mistakes, and staying positive toward challenges.
 
 ## Understanding Internal Locus of Control
-3. What is the Internal Locus of Control? What is the key point in the video?
+3. What is the Internal Locus of Control? What is the key point in the video?  
 Internal Locus of Control means believing that my success or failure mainly depends on my own actions, effort, and decisions rather than luck or other people.
 * The video explains that staying motivated becomes easier when we focus on things we can control instead of blaming external situations.
 
