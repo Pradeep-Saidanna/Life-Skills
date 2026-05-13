@@ -1,7 +1,7 @@
 # Grit and Growth Mindset
 
 ## Grit
-1. Paraphrase (summarize) the video in a few (1 or 2) lines. Use your own words.
+1. Paraphrase (summarize) the video in a few (1 or 2) lines. Use your own words.  
 For me, the video shows that success does not come only from talent. It comes from continuously working hard, staying dedicated to goals, and not giving up even when situations become difficult.
 
 ## Introduction to Growth Mindset
