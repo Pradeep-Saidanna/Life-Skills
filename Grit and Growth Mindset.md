@@ -5,7 +5,7 @@
 For me, the video shows that success does not come only from talent. It comes from continuously working hard, staying dedicated to goals, and not giving up even when situations become difficult.
 
 ## Introduction to Growth Mindset
-2. Paraphrase (summarize) the video in a few (1 or 2) lines in your own words.
+2. Paraphrase (summarize) the video in a few (1 or 2) lines in your own words.  
 The video taught me that intelligence and skills are not fixed. We can improve ourselves through practice, effort, learning from mistakes, and staying positive toward challenges.
 
 ## Understanding Internal Locus of Control
@@ -14,7 +14,7 @@ Internal Locus of Control means believing that my success or failure mainly depe
 * The video explains that staying motivated becomes easier when we focus on things we can control instead of blaming external situations.
 
 ## How to build a Growth Mindset
-4. What are the key points mentioned by speaker to build growth mindset (explanation not needed).
+4. What are the key points mentioned by speaker to build growth mindset (explanation not needed).  
 * Believe that skills can improve.
 * Accept challenges.
 * Learn from mistakes.
@@ -27,5 +27,5 @@ Internal Locus of Control means believing that my success or failure mainly depe
 * Keep trying without giving up.
 
 ## Mindset - A MountBlue Warrior Reference Manual
-5. What are your ideas to take action and build Growth Mindset?
+5. What are your ideas to take action and build Growth Mindset?  
 I want to take responsibility for my learning and stay consistent while practicing. I will try to understand concepts clearly instead of just memorizing them. Whenever I make mistakes or face errors, I will treat them as learning opportunities instead of getting frustrated. I also want to stay focused, avoid distractions, practice coding regularly, and keep improving step by step with patience and confidence.
