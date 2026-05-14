@@ -27,7 +27,7 @@ According to the book, habits become easier when we reduce effort and make them 
 The book explains that bad habits can be reduced by making them difficult and inconvenient. Removing triggers, increasing effort, and creating obstacles can help stop unwanted habits.  
 
 ## Reflection:
-8. Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
-9. One habit I want to improve is daily coding practice. I can set a fixed coding time every day, keep my laptop ready, and start with small goals like practicing for 20–30 minutes. I will also reduce distractions and track my progress daily so the habit feels satisfying.  
+8. Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?  
+One habit I want to improve is daily coding practice. I can set a fixed coding time every day, keep my laptop ready, and start with small goals like practicing for 20–30 minutes. I will also reduce distractions and track my progress daily so the habit feels satisfying.  
 10. Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?  
 One habit I want to reduce is unnecessary mobile phone usage. I can keep my phone away while studying, turn off notifications, and avoid opening social media frequently. I will also replace scrolling time with coding, learning, or reading to make the habit less attractive.  
