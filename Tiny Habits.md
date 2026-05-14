@@ -6,7 +6,7 @@ For me, the most interesting idea in the video was that very small habits can sl
 
 ## Tiny Habits by BJ Fogg - Core Message
 2. How can you use B = MAP to make making new habits easier? What are M, A and P.  
-B = MAP means Behavior happens when Motivation, Ability, and Prompt come together.  
+B = MAP means Behavior happens when Motivation, Ability, and Prompt come together.    
 * M = Motivation → the desire to do something,  
 * A = Ability → how easy the habit is to do,  
 * P = Prompt → the reminder or trigger to do it,  
