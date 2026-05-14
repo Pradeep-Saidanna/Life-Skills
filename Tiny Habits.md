@@ -9,7 +9,7 @@ For me, the most interesting idea in the video was that very small habits can sl
 B = MAP means Behavior happens when Motivation, Ability, and Prompt come together.
 * M = Motivation → the desire to do something,
 * A = Ability → how easy the habit is to do,
-* P = Prompt → the reminder or trigger to do it,
+* P = Prompt → the reminder or trigger to do it,  
 I can use this by making habits simple, keeping reminders, and starting with very small actions instead of forcing myself to do too much.  
 3. Why it is important to "Shine" or Celebrate after each successful completion of habit? (This is the most important concept in today's topic. Whatever you celebrate becomes a habit)  
 I think celebrating after completing a habit is important because it creates positive feelings and motivates us to repeat the behavior again. When we feel good after doing something, our brain starts connecting happiness with that habit, which helps make it permanent.
