@@ -4,10 +4,10 @@
 1. What are the activities you do that make you relax - Calm quadrant?  
 Some activities that help me relax are listening to music, taking short walks, sleeping properly, watching calming videos, spending time alone quietly, talking with friends, and practicing meditation or deep breathing.
 
-2. When do you find getting into the Stress quadrant?
+2. When do you find getting into the Stress quadrant?  
 I usually enter the stress quadrant when I have multiple deadlines, difficult coding problems, lack of time, too many distractions, or when I overthink about results and performance.
 
-3. How do you understand if you are in the Excitement quadrant?
+3. How do you understand if you are in the Excitement quadrant?  
 I feel excited when I feel energetic, motivated, focused, and interested in what I am doing. I also notice that I enjoy learning, feel positive, and work with full involvement without feeling mentally tired.
 
 ## Understanding Energy Sources
